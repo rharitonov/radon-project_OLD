@@ -1,0 +1,8 @@
+{
+    "al.assemblyProbingPaths":  [
+        "C://Windows//assembly",
+        "C://Program Files//Microsoft Dynamics 365 Business Central//170//Service",
+        "C://Program Files (x86)//Microsoft Dynamics 365 Business Central//170//RoleTailored Client",
+        "c://bc170-dotnet//Test Assemblies"
+    ]
+}
