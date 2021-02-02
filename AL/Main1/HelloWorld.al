@@ -6,6 +6,6 @@ pageextension 50100 CustomerListExt extends "Customer List"
 {
     trigger OnOpenPage();
     begin
-        Message('App published: Hello world wqeq');
+        Message('This message views from new branch "feature/new_message"');
     end;
 }
